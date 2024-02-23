@@ -18,7 +18,6 @@ include('header.php');
                     <th>Stok Masuk</th>
                     <th>Stok Keluar</th>
                     <th>Stok Akhir</th>
-                    <th>Aksi</th>
                 </tr>
                 <tr>
                 <?php                  	
